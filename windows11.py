@@ -28,7 +28,7 @@ tk.Label(root, text="Windows 11 Upgrade Required!", font=("Arial", 14, "bold")).
 # Message
 message = (
     "Hello User,\n\n"
-    "Your computer (OZL4041W) must be upgraded to Windows 11 due to the end of\n"
+    "Your computer (HOSTNAME) must be upgraded to Windows 11 due to the end of\n"
     "Windows 10 support by Microsoft and company compliance.\n"
     "If you had a dependency on Windows 10, please confirm if it still applies. If not,\n"
     "proceed with the upgrade as soon as possible.\n"
