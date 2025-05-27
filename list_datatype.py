@@ -31,3 +31,7 @@ print(l)
 
 l.append([10, 20, 30, "abc", False])
 print(l)
+
+l.insert(0, "abc")
+print(l)
+
