@@ -28,3 +28,6 @@ l = [10, 20, 30, "abc", False]
 
 l.append(True)
 print(l)
+
+l.append([10, 20, 30, "abc", False])
+print(l)
