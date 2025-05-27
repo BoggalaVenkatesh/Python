@@ -14,4 +14,6 @@ print(l2)
 l3 = l[-1][0]
 print(l3)
 
-print(l[len(l) - 2])
+print(l[len(l) - 1][0])
+
+print(dir(l))
