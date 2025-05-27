@@ -35,6 +35,9 @@ print(l)
 l.insert(0, "abc")
 print(l)
 
+res = l.insert(0, "abc")
+print(res)
+
 l.extend([10, 20, 30, "abc", False])
 print(l)
 
