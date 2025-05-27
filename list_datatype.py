@@ -27,3 +27,4 @@ l = [10, 20, 30, "abc", False]
 # append an element to the end of the list
 
 l.append(True)
+print(l)
