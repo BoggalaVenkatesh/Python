@@ -11,3 +11,5 @@ print(l1)
 l2 = l[5]
 print(l2)
 
+l3 = l[-1][0]
+print(l3)
