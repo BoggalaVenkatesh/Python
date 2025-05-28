@@ -22,23 +22,27 @@
  'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
  
  '''
-l = [10, 20, 30, "abc", False]
+# l = [10, 20, 30, "abc", False]
 
-# append an element to the end of the list
+# # append an element to the end of the list
 
-l.append(True)
+# l.append(True)
+# print(l)
+
+# l.append([10, 20, 30, "abc", False])
+# print(l)
+
+# l.insert(0, "abc")
+# print(l)
+
+# res = l.insert(0, "abc")
+# print(res)
+
+# l.en([10, 20, 30, "abc", False])
+# print(l)
+
+
+l = [2, 3, 1, 'a']
+l.sort()
 print(l)
-
-l.append([10, 20, 30, "abc", False])
-print(l)
-
-l.insert(0, "abc")
-print(l)
-
-res = l.insert(0, "abc")
-print(res)
-
-l.extend([10, 20, 30, "abc", False])
-print(l)
-
 
