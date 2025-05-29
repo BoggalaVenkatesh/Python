@@ -42,10 +42,13 @@
 # print(l)
 
 
-l = [2, 3, 1]
-# l.sort()
-l1 = sorted(l)
-print(l, l1)
+# l = [2, 3, 1]
+# # l.sort()
+# l1 = sorted(l)
+# print(l, l1)
+
+txt = "Hello, And Welcome to my World!"
+print(txt.split(" "))
 
 
 
