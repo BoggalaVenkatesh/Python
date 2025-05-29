@@ -3,3 +3,5 @@ print(t)
 print(type(t))
 # print(dir(t))
 
+t1 = t[-1]
+print(t1)
