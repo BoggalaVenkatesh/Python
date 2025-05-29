@@ -42,7 +42,11 @@
 # print(l)
 
 
-l = [2, 3, 1, 'a']
-l.sort()
-print(l)
+l = [2, 3, 1]
+# l.sort()
+l1 = sorted(l)
+print(l, l1)
+
+
+
 
