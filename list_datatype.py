@@ -48,7 +48,7 @@
 # print(l, l1)
 
 txt = "Hello, And Welcome to my World!"
-print(txt.split(" "), type(txt))
+print(txt.split(" "), dir(txt), type(txt))
 
 
 
